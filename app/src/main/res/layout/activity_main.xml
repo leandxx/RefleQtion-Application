@@ -73,12 +73,14 @@
         android:id="@+id/textWelcome"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="344dp"
+        android:layout_marginTop="216dp"
         android:gravity="center"
         android:text="Welcome to RefleQtions"
-        android:textSize="18sp"
+        android:textSize="50sp"
         android:textStyle="bold"
+        android:textColor="#E91E2F3A"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/navBar" />
 
